@@ -13,5 +13,5 @@ I have used VS code as editor and Questasim as simulation tool.
 8.[Logical Operators](https://github.com/heyitsraman/verilog_raman/blob/main/logical_operators.v) <br/>
 9.[Logical Operators Usage](https://github.com/heyitsraman/verilog_raman/blob/main/logical_operators_usage.v) <br/>
 10.[Arithmetic Operators](https://github.com/heyitsraman/verilog_raman/blob/main/math_operators.v) <br/>
-11.[Shift Operators](https://github.com/heyitsraman/verilog_raman/blob/main/shift_operators.v)
-12.[Relational Operators](https://github.com/heyitsraman/verilog_raman/blob/main/relational_operators.v)
+11.[Shift Operators](https://github.com/heyitsraman/verilog_raman/blob/main/shift_operators.v) <br/>
+12.[Relational Operators](https://github.com/heyitsraman/verilog_raman/blob/main/relational_operators.v) <br/>
