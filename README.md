@@ -15,3 +15,4 @@ I have used VS code as editor and Questasim as simulation tool.
 10.[Arithmetic Operators](https://github.com/heyitsraman/verilog_raman/blob/main/math_operators.v) <br/>
 11.[Shift Operators](https://github.com/heyitsraman/verilog_raman/blob/main/shift_operators.v) <br/>
 12.[Relational Operators](https://github.com/heyitsraman/verilog_raman/blob/main/relational_operators.v) <br/>
+13.[Equality Operators](https://github.com/heyitsraman/verilog_raman/blob/main/equality_operators.v) <br/>
